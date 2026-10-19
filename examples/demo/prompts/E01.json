@@ -1,0 +1,134 @@
+[
+  {
+    "shot_id": "E01-S01",
+    "first_frame_refs": [
+      "characters/lan_three_view.png",
+      "characters/lan_expressions.png",
+      "locations/loc_01_coffee_shop.png"
+    ],
+    "image_prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. close-up shot. Location: small Vietnamese street coffee shop, low plastic stools and wooden tables, motorbikes parked outside, hanging fan, hand-painted Vietnamese shop sign, morning light. Characters: Lan: 28-year-old Vietnamese woman, oval face, light tan skin, shoulder-length straight black hair, side part, wearing cream silk blouse and black trousers, small silver stud earrings, thin silver watch on left wrist. Frame: Lan puts the cup down and looks up at the door. Emotion: cold anger. Aspect ratio 9:16. Avoid: extra fingers, deformed hands, face change, text, subtitles, watermark, anime, 3D cartoon.",
+    "video_prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. close-up shot, camera: slow push-in. Location: small Vietnamese street coffee shop, low plastic stools and wooden tables, motorbikes parked outside, hanging fan, hand-painted Vietnamese shop sign, morning light. Characters: Lan: 28-year-old Vietnamese woman, oval face, light tan skin, shoulder-length straight black hair, side part, wearing cream silk blouse and black trousers, small silver stud earrings, thin silver watch on left wrist. Action: Lan puts the cup down and looks up at the door. Emotion: cold anger. Lan speaks in Vietnamese, mouth moves naturally. Voice and lip sync are added later. Keep face and clothes the same as the first frame. No subtitles, no text, no watermark.",
+    "video_negative": "extra fingers, deformed hands, face change, text, subtitles, watermark, anime, 3D cartoon",
+    "target_duration_s": 6.0,
+    "generate_duration_s": 10,
+    "aspect": "9:16",
+    "dialogue_vi": "Anh còn dám về đây sao?",
+    "speaker": "lan"
+  },
+  {
+    "shot_id": "E01-S02",
+    "first_frame_refs": [
+      "characters/minh_three_view.png",
+      "characters/minh_expressions.png",
+      "locations/loc_01_coffee_shop.png"
+    ],
+    "image_prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. medium shot. Location: small Vietnamese street coffee shop, low plastic stools and wooden tables, motorbikes parked outside, hanging fan, hand-painted Vietnamese shop sign, morning light. Characters: Minh: 32-year-old Vietnamese man, square face, medium tan skin, short black hair, neat, wearing navy suit, white shirt, no tie, black leather watch. Frame: Minh stands in the doorway and freezes. Emotion: shock. Aspect ratio 9:16. Avoid: extra fingers, deformed hands, face change, text, subtitles, watermark, anime, 3D cartoon.",
+    "video_prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. medium shot, camera: static. Location: small Vietnamese street coffee shop, low plastic stools and wooden tables, motorbikes parked outside, hanging fan, hand-painted Vietnamese shop sign, morning light. Characters: Minh: 32-year-old Vietnamese man, square face, medium tan skin, short black hair, neat, wearing navy suit, white shirt, no tie, black leather watch. Action: Minh stands in the doorway and freezes. Emotion: shock. Minh speaks in Vietnamese, mouth moves naturally. Voice and lip sync are added later. Keep face and clothes the same as the first frame. No subtitles, no text, no watermark.",
+    "video_negative": "extra fingers, deformed hands, face change, text, subtitles, watermark, anime, 3D cartoon",
+    "target_duration_s": 6.0,
+    "generate_duration_s": 10,
+    "aspect": "9:16",
+    "dialogue_vi": "Lan... em còn sống sao?",
+    "speaker": "minh"
+  },
+  {
+    "shot_id": "E01-S03",
+    "first_frame_refs": [
+      "characters/lan_three_view.png",
+      "characters/lan_expressions.png",
+      "characters/minh_three_view.png",
+      "characters/minh_expressions.png",
+      "locations/loc_01_coffee_shop.png"
+    ],
+    "image_prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. over-the-shoulder shot. Location: small Vietnamese street coffee shop, low plastic stools and wooden tables, motorbikes parked outside, hanging fan, hand-painted Vietnamese shop sign, morning light. Characters: Lan: 28-year-old Vietnamese woman, oval face, light tan skin, shoulder-length straight black hair, side part, wearing cream silk blouse and black trousers, small silver stud earrings, thin silver watch on left wrist. Minh: 32-year-old Vietnamese man, square face, medium tan skin, short black hair, neat, wearing navy suit, white shirt, no tie, black leather watch. Frame: Lan stands up and walks toward Minh. Emotion: cold anger. Aspect ratio 9:16. Avoid: extra fingers, deformed hands, face change, text, subtitles, watermark, anime, 3D cartoon.",
+    "video_prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. over-the-shoulder shot, camera: static. Location: small Vietnamese street coffee shop, low plastic stools and wooden tables, motorbikes parked outside, hanging fan, hand-painted Vietnamese shop sign, morning light. Characters: Lan: 28-year-old Vietnamese woman, oval face, light tan skin, shoulder-length straight black hair, side part, wearing cream silk blouse and black trousers, small silver stud earrings, thin silver watch on left wrist. Minh: 32-year-old Vietnamese man, square face, medium tan skin, short black hair, neat, wearing navy suit, white shirt, no tie, black leather watch. Action: Lan stands up and walks toward Minh. Emotion: cold anger. Lan speaks in Vietnamese, mouth moves naturally. Voice and lip sync are added later. Keep face and clothes the same as the first frame. No subtitles, no text, no watermark.",
+    "video_negative": "extra fingers, deformed hands, face change, text, subtitles, watermark, anime, 3D cartoon",
+    "target_duration_s": 6.0,
+    "generate_duration_s": 10,
+    "aspect": "9:16",
+    "dialogue_vi": "Ba năm rồi. Anh quên tôi nhanh thật.",
+    "speaker": "lan"
+  },
+  {
+    "shot_id": "E01-S04",
+    "first_frame_refs": [
+      "characters/minh_three_view.png",
+      "characters/minh_expressions.png",
+      "locations/loc_01_coffee_shop.png"
+    ],
+    "image_prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. close-up shot. Location: small Vietnamese street coffee shop, low plastic stools and wooden tables, motorbikes parked outside, hanging fan, hand-painted Vietnamese shop sign, morning light. Characters: Minh: 32-year-old Vietnamese man, square face, medium tan skin, short black hair, neat, wearing navy suit, white shirt, no tie, black leather watch. Frame: Minh looks down at her watch. Emotion: guilt. Aspect ratio 9:16. Avoid: extra fingers, deformed hands, face change, text, subtitles, watermark, anime, 3D cartoon.",
+    "video_prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. close-up shot, camera: static. Location: small Vietnamese street coffee shop, low plastic stools and wooden tables, motorbikes parked outside, hanging fan, hand-painted Vietnamese shop sign, morning light. Characters: Minh: 32-year-old Vietnamese man, square face, medium tan skin, short black hair, neat, wearing navy suit, white shirt, no tie, black leather watch. Action: Minh looks down at her watch. Emotion: guilt. Keep face and clothes the same as the first frame. No subtitles, no text, no watermark.",
+    "video_negative": "extra fingers, deformed hands, face change, text, subtitles, watermark, anime, 3D cartoon",
+    "target_duration_s": 5.0,
+    "generate_duration_s": 10,
+    "aspect": "9:16",
+    "dialogue_vi": "",
+    "speaker": ""
+  },
+  {
+    "shot_id": "E01-S05",
+    "first_frame_refs": [
+      "characters/lan_three_view.png",
+      "characters/lan_expressions.png",
+      "characters/minh_three_view.png",
+      "characters/minh_expressions.png",
+      "locations/loc_01_coffee_shop.png"
+    ],
+    "image_prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. wide shot. Location: small Vietnamese street coffee shop, low plastic stools and wooden tables, motorbikes parked outside, hanging fan, hand-painted Vietnamese shop sign, morning light. Characters: Lan: 28-year-old Vietnamese woman, oval face, light tan skin, shoulder-length straight black hair, side part, wearing cream silk blouse and black trousers, small silver stud earrings, thin silver watch on left wrist. Minh: 32-year-old Vietnamese man, square face, medium tan skin, short black hair, neat, wearing navy suit, white shirt, no tie, black leather watch. Frame: Lan pushes an envelope across the table. Emotion: calm threat. Aspect ratio 9:16. Avoid: extra fingers, deformed hands, face change, text, subtitles, watermark, anime, 3D cartoon.",
+    "video_prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. wide shot, camera: pan left. Location: small Vietnamese street coffee shop, low plastic stools and wooden tables, motorbikes parked outside, hanging fan, hand-painted Vietnamese shop sign, morning light. Characters: Lan: 28-year-old Vietnamese woman, oval face, light tan skin, shoulder-length straight black hair, side part, wearing cream silk blouse and black trousers, small silver stud earrings, thin silver watch on left wrist. Minh: 32-year-old Vietnamese man, square face, medium tan skin, short black hair, neat, wearing navy suit, white shirt, no tie, black leather watch. Action: Lan pushes an envelope across the table. Emotion: calm threat. Lan speaks in Vietnamese, mouth moves naturally. Voice and lip sync are added later. Keep face and clothes the same as the first frame. No subtitles, no text, no watermark.",
+    "video_negative": "extra fingers, deformed hands, face change, text, subtitles, watermark, anime, 3D cartoon",
+    "target_duration_s": 7.0,
+    "generate_duration_s": 10,
+    "aspect": "9:16",
+    "dialogue_vi": "Ký đi. Rồi anh sẽ biết tôi là ai.",
+    "speaker": "lan"
+  },
+  {
+    "shot_id": "E01-S06",
+    "first_frame_refs": [
+      "characters/minh_three_view.png",
+      "characters/minh_expressions.png",
+      "locations/loc_01_coffee_shop.png"
+    ],
+    "image_prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. close-up shot. Location: small Vietnamese street coffee shop, low plastic stools and wooden tables, motorbikes parked outside, hanging fan, hand-painted Vietnamese shop sign, morning light. Characters: Minh: 32-year-old Vietnamese man, square face, medium tan skin, short black hair, neat, wearing navy suit, white shirt, no tie, black leather watch. Frame: Minh opens the envelope and his hands shake. Emotion: disbelief. Aspect ratio 9:16. Avoid: extra fingers, deformed hands, face change, text, subtitles, watermark, anime, 3D cartoon.",
+    "video_prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. close-up shot, camera: slow push-in. Location: small Vietnamese street coffee shop, low plastic stools and wooden tables, motorbikes parked outside, hanging fan, hand-painted Vietnamese shop sign, morning light. Characters: Minh: 32-year-old Vietnamese man, square face, medium tan skin, short black hair, neat, wearing navy suit, white shirt, no tie, black leather watch. Action: Minh opens the envelope and his hands shake. Emotion: disbelief. Minh speaks in Vietnamese, mouth moves naturally. Voice and lip sync are added later. Keep face and clothes the same as the first frame. No subtitles, no text, no watermark.",
+    "video_negative": "extra fingers, deformed hands, face change, text, subtitles, watermark, anime, 3D cartoon",
+    "target_duration_s": 6.0,
+    "generate_duration_s": 10,
+    "aspect": "9:16",
+    "dialogue_vi": "Cái này... là của ba em?",
+    "speaker": "minh"
+  },
+  {
+    "shot_id": "E01-S07",
+    "first_frame_refs": [
+      "characters/lan_three_view.png",
+      "characters/lan_expressions.png",
+      "locations/loc_01_coffee_shop.png"
+    ],
+    "image_prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. medium shot. Location: small Vietnamese street coffee shop, low plastic stools and wooden tables, motorbikes parked outside, hanging fan, hand-painted Vietnamese shop sign, morning light. Characters: Lan: 28-year-old Vietnamese woman, oval face, light tan skin, shoulder-length straight black hair, side part, wearing cream silk blouse and black trousers, small silver stud earrings, thin silver watch on left wrist. Frame: Lan smiles for the first time. Emotion: cold smile. Aspect ratio 9:16. Avoid: extra fingers, deformed hands, face change, text, subtitles, watermark, anime, 3D cartoon.",
+    "video_prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. medium shot, camera: static. Location: small Vietnamese street coffee shop, low plastic stools and wooden tables, motorbikes parked outside, hanging fan, hand-painted Vietnamese shop sign, morning light. Characters: Lan: 28-year-old Vietnamese woman, oval face, light tan skin, shoulder-length straight black hair, side part, wearing cream silk blouse and black trousers, small silver stud earrings, thin silver watch on left wrist. Action: Lan smiles for the first time. Emotion: cold smile. Lan speaks in Vietnamese, mouth moves naturally. Voice and lip sync are added later. Keep face and clothes the same as the first frame. No subtitles, no text, no watermark.",
+    "video_negative": "extra fingers, deformed hands, face change, text, subtitles, watermark, anime, 3D cartoon",
+    "target_duration_s": 6.0,
+    "generate_duration_s": 10,
+    "aspect": "9:16",
+    "dialogue_vi": "Ba tôi mất rồi. Còn công ty thì là của tôi.",
+    "speaker": "lan"
+  },
+  {
+    "shot_id": "E01-S08",
+    "first_frame_refs": [
+      "characters/minh_three_view.png",
+      "characters/minh_expressions.png",
+      "locations/loc_01_coffee_shop.png"
+    ],
+    "image_prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. close-up shot. Location: small Vietnamese street coffee shop, low plastic stools and wooden tables, motorbikes parked outside, hanging fan, hand-painted Vietnamese shop sign, morning light. Characters: Minh: 32-year-old Vietnamese man, square face, medium tan skin, short black hair, neat, wearing navy suit, white shirt, no tie, black leather watch. Frame: A phone rings on the table. The screen shows 'Mẹ'.. Emotion: fear. Aspect ratio 9:16. Avoid: extra fingers, deformed hands, face change, text, subtitles, watermark, anime, 3D cartoon.",
+    "video_prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. close-up shot, camera: slow push-in. Location: small Vietnamese street coffee shop, low plastic stools and wooden tables, motorbikes parked outside, hanging fan, hand-painted Vietnamese shop sign, morning light. Characters: Minh: 32-year-old Vietnamese man, square face, medium tan skin, short black hair, neat, wearing navy suit, white shirt, no tie, black leather watch. Action: A phone rings on the table. The screen shows 'Mẹ'.. Emotion: fear. Minh speaks in Vietnamese, mouth moves naturally. Voice and lip sync are added later. Keep face and clothes the same as the first frame. No subtitles, no text, no watermark.",
+    "video_negative": "extra fingers, deformed hands, face change, text, subtitles, watermark, anime, 3D cartoon",
+    "target_duration_s": 6.0,
+    "generate_duration_s": 10,
+    "aspect": "9:16",
+    "dialogue_vi": "Mẹ... mẹ biết hết sao?",
+    "speaker": "minh"
+  }
+]

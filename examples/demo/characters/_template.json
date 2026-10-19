@@ -1,0 +1,16 @@
+{
+  "name": "Lan",
+  "role": "female lead",
+  "age": "28-year-old Vietnamese woman",
+  "face_shape": "oval",
+  "skin_tone": "light tan",
+  "hair": "shoulder-length straight black hair, side part",
+  "clothes": "cream silk blouse and black trousers",
+  "accessories": "small silver stud earrings, thin silver watch on left wrist",
+  "description_fixed": "",
+  "voice": {"provider": "elevenlabs", "voice_id": "TODO", "note": "calm, low, female"},
+  "reference_images": {
+    "three_view": "characters/lan_three_view.png",
+    "expression_sheet": "characters/lan_expressions.png"
+  }
+}

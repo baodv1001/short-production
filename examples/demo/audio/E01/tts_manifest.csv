@@ -1,0 +1,8 @@
+﻿file,shot_id,speaker,voice_provider,voice_id,emotion,text_vi,est_speech_s,shot_duration_s,too_long
+E01-S01_lan.mp3,E01-S01,lan,elevenlabs,TODO,cold anger,Anh còn dám về đây sao?,1.5,6,
+E01-S02_minh.mp3,E01-S02,minh,elevenlabs,TODO,shock,Lan... em còn sống sao?,1.2,6,
+E01-S03_lan.mp3,E01-S03,lan,elevenlabs,TODO,cold anger,Ba năm rồi. Anh quên tôi nhanh thật.,2.0,6,
+E01-S05_lan.mp3,E01-S05,lan,elevenlabs,TODO,calm threat,Ký đi. Rồi anh sẽ biết tôi là ai.,2.2,7,
+E01-S06_minh.mp3,E01-S06,minh,elevenlabs,TODO,disbelief,Cái này... là của ba em?,1.5,6,
+E01-S07_lan.mp3,E01-S07,lan,elevenlabs,TODO,cold smile,Ba tôi mất rồi. Còn công ty thì là của tôi.,2.8,6,
+E01-S08_minh.mp3,E01-S08,minh,elevenlabs,TODO,fear,Mẹ... mẹ biết hết sao?,1.2,6,
