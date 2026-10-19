@@ -14,6 +14,14 @@ from drama_lib import (MODEL_DURATIONS, character_description, gen_duration, loa
                        load_shotlist, read_json, split_list, style_text, to_float)
 
 
+FRAMING = {
+    "close-up": "tight close-up, face fills most of the frame, background out of focus",
+    "medium": "medium shot, waist up",
+    "wide": "wide shot, full location visible",
+    "over-the-shoulder": "over-the-shoulder shot, foreground shoulder out of focus",
+}
+
+
 def build(shot, chars, locs, style, model):
     names = split_list(shot["characters"])
     descs = [character_description(chars[n]) for n in names if n in chars]
@@ -30,7 +38,7 @@ def build(shot, chars, locs, style, model):
     frame = shot.get("first_frame") or shot["action"]
     image = " ".join(filter(None, [
         f'{st}.',
-        f'{shot["shot_type"]} shot.',
+        f'{FRAMING.get(shot["shot_type"], shot["shot_type"] + " shot")}.',
         f'Location: {loc_desc}.' if loc_desc else "",
         f'Characters: {". ".join(descs)}.' if descs else "",
         f'Frame: {frame}.',
@@ -46,7 +54,7 @@ def build(shot, chars, locs, style, model):
                  f'mouth moves naturally. Voice and lip sync are added later.')
     video = " ".join(filter(None, [
         f'{st}.',
-        f'{shot["shot_type"]} shot, camera: {shot["camera_move"]}.',
+        f'{FRAMING.get(shot["shot_type"], shot["shot_type"] + " shot")}, camera: {shot["camera_move"]}.',
         f'Location: {loc_desc}.' if loc_desc else "",
         f'Characters: {". ".join(descs)}.' if descs else "",
         f'Action: {shot["action"]}.',

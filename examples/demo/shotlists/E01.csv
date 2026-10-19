@@ -1,5 +1,5 @@
 shot_id,shot_type,camera_move,duration_s,characters,action,first_frame,speaker,dialogue_vi,emotion,location_ref,twist,notes
-E01-S01,close-up,slow push-in,6,lan,Lan puts the cup down and looks up at the door,,lan,Anh còn dám về đây sao?,cold anger,loc_01_coffee_shop,hook,
+E01-S01,close-up,slow push-in,6,lan,Lan puts the cup down and looks up at the door,Lan holds a small coffee cup with a cold hard stare at the door and a tight jaw,lan,Anh còn dám về đây sao?,cold anger,loc_01_coffee_shop,hook,
 E01-S02,medium,static,6,minh,Minh stands in the doorway and freezes,,minh,Lan... em còn sống sao?,shock,loc_01_coffee_shop,,
 E01-S03,over-the-shoulder,static,6,lan;minh,Lan stands up and walks toward Minh,,lan,Ba năm rồi. Anh quên tôi nhanh thật.,cold anger,loc_01_coffee_shop,,
 E01-S04,close-up,static,5,minh,Minh looks down at her watch,,,,guilt,loc_01_coffee_shop,twist,Same watch he gave her
