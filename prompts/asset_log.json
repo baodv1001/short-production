@@ -16,7 +16,8 @@
   "three_view_v2": {
     "ha": "528d3df7-e43d-480d-92c0-2072857eeca2",
     "khoi": "1ea5f590-4b1a-4532-97f9-ba1e2cf9a062",
-    "ba_tu": "8ba00033-30f4-4cfd-bdf9-87eb86b0e3fa"
+    "ba_tu": "8ba00033-30f4-4cfd-bdf9-87eb86b0e3fa",
+    "note": "khoi and ba_tu approved candidates; ha v2 has a large round m\u1ea5n hat, redo with slim headband"
   },
   "limits": "TopView allows about 3-4 active image tasks at once. Submit at most 3 together."
 }

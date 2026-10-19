@@ -19,7 +19,7 @@
     "kind": "three_view",
     "aspect": "16:9",
     "output": "characters/ba_tu_three_view.png",
-    "prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. Character design reference sheet, three-view turnaround: front view, side view in profile, back view, full body, standing in a neutral pose, plain light gray studio background, even soft light, the same person in all three views. Bà Tư: 55-year-old Vietnamese woman, long narrow face, pale skin, black hair with gray streaks tied in a low bun, thin lips, deep lines beside the mouth, wearing dark purple silk áo dài, black pants, green jade bracelet on the right wrist. Avoid: extra fingers, deformed hands, face change, text, subtitles, watermark, garbled text, unreadable signs, anime, 3D cartoon, labels, captions."
+    "prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. Character design reference sheet, three-view turnaround: front view, side view in profile, back view, full body, standing in a neutral pose, plain light gray studio background, even soft light, the same person in all three views. Bà Tư: 55-year-old Vietnamese woman, long narrow face, pale skin, black hair with gray streaks tied in a low bun, thin lips, deep lines beside the mouth, wearing dark purple silk áo dài, black pants, green jade bracelet on the left wrist. Avoid: extra fingers, deformed hands, face change, text, subtitles, watermark, garbled text, unreadable signs, anime, 3D cartoon, labels, captions."
   },
   {
     "id": "ba_tu_expressions",
@@ -27,7 +27,7 @@
     "aspect": "16:9",
     "output": "characters/ba_tu_expressions.png",
     "input": "characters/ba_tu_three_view.png",
-    "prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. Expression sheet of the same person as the reference image: five close-up head-and-shoulders portraits in a row, expressions: neutral, happy, angry, sad, surprised. Same face, same hair, same clothes in every portrait, plain light gray background. Bà Tư: 55-year-old Vietnamese woman, long narrow face, pale skin, black hair with gray streaks tied in a low bun, thin lips, deep lines beside the mouth, wearing dark purple silk áo dài, black pants, green jade bracelet on the right wrist. Avoid: extra fingers, deformed hands, face change, text, subtitles, watermark, garbled text, unreadable signs, anime, 3D cartoon, labels, captions."
+    "prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. Expression sheet of the same person as the reference image: five close-up head-and-shoulders portraits in a row, expressions: neutral, happy, angry, sad, surprised. Same face, same hair, same clothes in every portrait, plain light gray background. Bà Tư: 55-year-old Vietnamese woman, long narrow face, pale skin, black hair with gray streaks tied in a low bun, thin lips, deep lines beside the mouth, wearing dark purple silk áo dài, black pants, green jade bracelet on the left wrist. Avoid: extra fingers, deformed hands, face change, text, subtitles, watermark, garbled text, unreadable signs, anime, 3D cartoon, labels, captions."
   },
   {
     "id": "ha_three_view",
