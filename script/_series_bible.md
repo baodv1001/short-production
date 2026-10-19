@@ -2,10 +2,11 @@
 
 - **Genre:** time travel / rebirth (trọng sinh) + revenge + family drama
 - **Setting:** Ho Chi Minh City, an old nhà ống (tube house) with a family altar, today and five years earlier
-- **Logline:** Hà dies on her 5th wedding anniversary, poisoned by her husband. She wakes up in her wedding dress on the morning of her wedding, five years earlier. This time she knows who he is, who her "best friend" is, and who will poison her father next.
+- **Logline:** Hà dies on her 5th wedding anniversary, poisoned by her husband. She wakes up in her red wedding áo dài on the morning of her wedding, five years earlier. This time she knows who he is, who her "best friend" is, and who will poison her father next.
 - **Format:** 20 episodes x about 1.5 min, 9:16, Vietnamese dialogue
 - **Tone:** cold, tense, fast. Quiet face, sharp words. Hà never shouts, except when she must save someone.
 - **Visual style:** locked in `style.json` (photorealistic, cinematic, 35 mm, natural warm light)
+- **Wedding look:** the bride and groom wear red Vietnamese wedding áo dài with gold embroidery. Red and gold are the rebirth timeline colors. Bà Tư wears dark purple. Vy wears pale pink.
 
 ## Why this story fits AI production
 - Only 6 main characters. Fewer faces means fewer consistency errors.
@@ -28,7 +29,7 @@
 | id | Description |
 |---|---|
 | `loc_01_nha_ong` | Hà's family nhà ống: ground-floor hall with the altar, wooden tables, tea set, wedding red decorations |
-| `loc_02_phong_cuoi` | Hà's bridal room on the second floor: mirror, dressing table, white wedding áo dài, wedding flowers |
+| `loc_02_phong_cuoi` | Hà's bridal room on the second floor: mirror, dressing table, red wedding áo dài, red and gold flowers |
 | `loc_03_phong_an_2031` | The dining room of Hà and Khôi's modern apartment in the first timeline (death scene, cold blue night light) |
 | `loc_04_tiem_ao_dai` | Father's áo dài tailor shop: mannequins, fabric rolls, sewing machines (used from Ep 4) |
 
