@@ -1,1 +1,20 @@
-{"name":"Minh","role":"male lead, ex-husband","age":"32-year-old Vietnamese man","face_shape":"square","skin_tone":"medium tan","hair":"short black hair, neat","clothes":"navy suit, white shirt, no tie","accessories":"black leather watch","description_fixed":"","voice":{"provider":"elevenlabs","voice_id":"TODO","note":"deep, male, tired"},"reference_images":{"three_view":"characters/minh_three_view.png","expression_sheet":"characters/minh_expressions.png"}}
+{
+  "name": "Minh",
+  "role": "male lead, ex-husband",
+  "age": "32-year-old Vietnamese man",
+  "face_shape": "square",
+  "skin_tone": "medium tan",
+  "hair": "short black hair, neat",
+  "clothes": "navy suit, white shirt, no tie",
+  "accessories": "black leather watch",
+  "description_fixed": "",
+  "voice": {
+    "provider": "topview",
+    "voice_id": "Idor7IjxZPmctFwO67QPIrmN46KAk0w2",
+    "note": "Khang, MiniMax v2.5, young male"
+  },
+  "reference_images": {
+    "three_view": "characters/minh_three_view.png",
+    "expression_sheet": "characters/minh_expressions.png"
+  }
+}
