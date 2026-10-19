@@ -1,6 +1,7 @@
 """Shared helpers for the short-drama tools. Standard library only."""
 import csv
 import json
+import math
 import re
 from pathlib import Path
 
@@ -17,6 +18,7 @@ MODEL_DURATIONS = {
     "kling": [5, 10],
     "seedance": [5, 10],
     "jimeng": [5, 10],
+    "topview": list(range(3, 16)),  # Kling V3/O3, Seedance 2.5 accept whole seconds
     "any": None,
 }
 GEN_MARGIN = 1.2  # generate each clip 1.2x longer than the shot needs
@@ -71,7 +73,7 @@ def gen_duration(target, model):
     want = target * GEN_MARGIN
     allowed = MODEL_DURATIONS.get(model)
     if not allowed:
-        return round(want, 1)
+        return math.ceil(want)
     for d in allowed:
         if d >= want:
             return d
