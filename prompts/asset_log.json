@@ -19,5 +19,19 @@
     "ba_tu": "8ba00033-30f4-4cfd-bdf9-87eb86b0e3fa",
     "note": "khoi and ba_tu approved candidates; ha v2 has a large round m\u1ea5n hat, redo with slim headband"
   },
-  "limits": "TopView allows about 3-4 active image tasks at once. Submit at most 3 together."
+  "limits": "TopView allows about 3-4 active image tasks at once. Submit at most 3 together.",
+  "status": "User approved vy, ba_son, khoi, ba_tu three-views. Ha uses slim headband (v3 pending approval).",
+  "three_view_v3": {
+    "ha": "ed8f9537-6c92-4fd7-bb15-1b5b77bedfbc"
+  },
+  "expressions_v1": {
+    "khoi": "4aa4b1e8-d9c0-46c7-8293-76b9b42aa8ba",
+    "vy": "49f6f2ff-864c-4e15-9213-c42bcadbde93"
+  },
+  "resource_ids": {
+    "vy_three_view": "87eb828f2b7e40be810f33063630c662",
+    "ba_son_three_view": "8ae7a0ca290f4b23be230fd3085824c6",
+    "khoi_three_view": "22a5d4b427444af192057bba5019b492",
+    "ba_tu_three_view": "a9ed655cd2ed4a3eaa782024ff5637d4"
+  }
 }
