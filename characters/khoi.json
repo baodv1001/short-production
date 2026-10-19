@@ -1,0 +1,20 @@
+{
+  "name": "Khôi",
+  "role": "groom, charming villain",
+  "age": "26-year-old Vietnamese man",
+  "face_shape": "square jaw",
+  "skin_tone": "medium light",
+  "hair": "short neat black hair parted to the right, thin straight eyebrows, narrow dark eyes, clean-shaven",
+  "clothes": "black wedding suit, white shirt, black bow tie",
+  "accessories": "small red flower pin on the left lapel",
+  "voice": {
+    "provider": "topview",
+    "voice_id": "ZLH7rk3hILm2v8uiAd1b9bGbRnbTesaH",
+    "note": "Thanh, MiniMax, young male"
+  },
+  "description_fixed": "",
+  "reference_images": {
+    "three_view": "characters/khoi_three_view.png",
+    "expression_sheet": "characters/khoi_expressions.png"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Ba Sơn",
+  "role": "Hà's father, tailor",
+  "age": "58-year-old Vietnamese man",
+  "face_shape": "round",
+  "skin_tone": "tan weathered",
+  "hair": "short gray hair, thick gray eyebrows, kind eyes, thin gray mustache",
+  "clothes": "navy blue silk men's áo dài with a gold button collar, black pants",
+  "accessories": "",
+  "voice": {
+    "provider": "topview",
+    "voice_id": "L8k826PINx4Jc05zHyuilnzM4xHVDVWX",
+    "note": "Khoa, ElevenLabs v3, older male"
+  },
+  "description_fixed": "",
+  "reference_images": {
+    "three_view": "characters/ba_son_three_view.png",
+    "expression_sheet": "characters/ba_son_expressions.png"
+  }
+}

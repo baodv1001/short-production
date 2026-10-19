@@ -1,0 +1,20 @@
+{
+  "name": "Vy",
+  "role": "best friend and secret lover",
+  "age": "23-year-old Vietnamese woman",
+  "face_shape": "heart-shaped",
+  "skin_tone": "fair",
+  "hair": "long wavy dark brown hair to the chest, full lips, sharp eyes with winged eyeliner",
+  "clothes": "pale pink bridesmaid áo dài with silver thread, white pants",
+  "accessories": "thin pearl necklace",
+  "voice": {
+    "provider": "topview",
+    "voice_id": "e3x7HMMVQjF8QwiifLZuTz0JPtUHrGKY",
+    "note": "Thao, MiniMax, young female, bright"
+  },
+  "description_fixed": "",
+  "reference_images": {
+    "three_view": "characters/vy_three_view.png",
+    "expression_sheet": "characters/vy_expressions.png"
+  }
+}

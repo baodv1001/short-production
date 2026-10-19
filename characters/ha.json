@@ -1,0 +1,20 @@
+{
+  "name": "Hà",
+  "role": "female lead, reborn bride",
+  "age": "23-year-old Vietnamese woman",
+  "face_shape": "oval",
+  "skin_tone": "light tan",
+  "hair": "shoulder-length straight black hair with a side part, thin natural eyebrows, small mole under the left eye",
+  "clothes": "white silk wedding áo dài with a high collar and long sleeves, white pants",
+  "accessories": "small pearl stud earrings, no other jewelry",
+  "voice": {
+    "provider": "topview",
+    "voice_id": "9H147HxTYbWiMlMwkwNfiWRTP2WdTiu2",
+    "note": "Linh, MiniMax, young female (check tone)"
+  },
+  "description_fixed": "",
+  "reference_images": {
+    "three_view": "characters/ha_three_view.png",
+    "expression_sheet": "characters/ha_expressions.png"
+  }
+}

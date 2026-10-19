@@ -1,0 +1,98 @@
+[
+  {
+    "id": "ba_son_three_view",
+    "kind": "three_view",
+    "aspect": "16:9",
+    "output": "characters/ba_son_three_view.png",
+    "prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. Character design reference sheet, three-view turnaround: front view, side view in profile, back view, full body, standing in a neutral pose, plain light gray studio background, even soft light, the same person in all three views. Ba Sơn: 58-year-old Vietnamese man, round face, tan weathered skin, short gray hair, thick gray eyebrows, kind eyes, thin gray mustache, wearing navy blue silk men's áo dài with a gold button collar, black pants. Avoid: extra fingers, deformed hands, face change, text, subtitles, watermark, garbled text, unreadable signs, anime, 3D cartoon, labels, captions."
+  },
+  {
+    "id": "ba_son_expressions",
+    "kind": "expression_sheet",
+    "aspect": "16:9",
+    "output": "characters/ba_son_expressions.png",
+    "input": "characters/ba_son_three_view.png",
+    "prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. Expression sheet of the same person as the reference image: five close-up head-and-shoulders portraits in a row, expressions: neutral, happy, angry, sad, surprised. Same face, same hair, same clothes in every portrait, plain light gray background. Ba Sơn: 58-year-old Vietnamese man, round face, tan weathered skin, short gray hair, thick gray eyebrows, kind eyes, thin gray mustache, wearing navy blue silk men's áo dài with a gold button collar, black pants. Avoid: extra fingers, deformed hands, face change, text, subtitles, watermark, garbled text, unreadable signs, anime, 3D cartoon, labels, captions."
+  },
+  {
+    "id": "ba_tu_three_view",
+    "kind": "three_view",
+    "aspect": "16:9",
+    "output": "characters/ba_tu_three_view.png",
+    "prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. Character design reference sheet, three-view turnaround: front view, side view in profile, back view, full body, standing in a neutral pose, plain light gray studio background, even soft light, the same person in all three views. Bà Tư: 55-year-old Vietnamese woman, long narrow face, pale skin, black hair with gray streaks tied in a low bun, thin lips, deep lines beside the mouth, wearing dark maroon silk áo dài, black pants, green jade bracelet on the right wrist. Avoid: extra fingers, deformed hands, face change, text, subtitles, watermark, garbled text, unreadable signs, anime, 3D cartoon, labels, captions."
+  },
+  {
+    "id": "ba_tu_expressions",
+    "kind": "expression_sheet",
+    "aspect": "16:9",
+    "output": "characters/ba_tu_expressions.png",
+    "input": "characters/ba_tu_three_view.png",
+    "prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. Expression sheet of the same person as the reference image: five close-up head-and-shoulders portraits in a row, expressions: neutral, happy, angry, sad, surprised. Same face, same hair, same clothes in every portrait, plain light gray background. Bà Tư: 55-year-old Vietnamese woman, long narrow face, pale skin, black hair with gray streaks tied in a low bun, thin lips, deep lines beside the mouth, wearing dark maroon silk áo dài, black pants, green jade bracelet on the right wrist. Avoid: extra fingers, deformed hands, face change, text, subtitles, watermark, garbled text, unreadable signs, anime, 3D cartoon, labels, captions."
+  },
+  {
+    "id": "ha_three_view",
+    "kind": "three_view",
+    "aspect": "16:9",
+    "output": "characters/ha_three_view.png",
+    "prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. Character design reference sheet, three-view turnaround: front view, side view in profile, back view, full body, standing in a neutral pose, plain light gray studio background, even soft light, the same person in all three views. Hà: 23-year-old Vietnamese woman, oval face, light tan skin, shoulder-length straight black hair with a side part, thin natural eyebrows, small mole under the left eye, wearing white silk wedding áo dài with a high collar and long sleeves, white pants, small pearl stud earrings, no other jewelry. Avoid: extra fingers, deformed hands, face change, text, subtitles, watermark, garbled text, unreadable signs, anime, 3D cartoon, labels, captions."
+  },
+  {
+    "id": "ha_expressions",
+    "kind": "expression_sheet",
+    "aspect": "16:9",
+    "output": "characters/ha_expressions.png",
+    "input": "characters/ha_three_view.png",
+    "prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. Expression sheet of the same person as the reference image: five close-up head-and-shoulders portraits in a row, expressions: neutral, happy, angry, sad, surprised. Same face, same hair, same clothes in every portrait, plain light gray background. Hà: 23-year-old Vietnamese woman, oval face, light tan skin, shoulder-length straight black hair with a side part, thin natural eyebrows, small mole under the left eye, wearing white silk wedding áo dài with a high collar and long sleeves, white pants, small pearl stud earrings, no other jewelry. Avoid: extra fingers, deformed hands, face change, text, subtitles, watermark, garbled text, unreadable signs, anime, 3D cartoon, labels, captions."
+  },
+  {
+    "id": "khoi_three_view",
+    "kind": "three_view",
+    "aspect": "16:9",
+    "output": "characters/khoi_three_view.png",
+    "prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. Character design reference sheet, three-view turnaround: front view, side view in profile, back view, full body, standing in a neutral pose, plain light gray studio background, even soft light, the same person in all three views. Khôi: 26-year-old Vietnamese man, square jaw face, medium light skin, short neat black hair parted to the right, thin straight eyebrows, narrow dark eyes, clean-shaven, wearing black wedding suit, white shirt, black bow tie, small red flower pin on the left lapel. Avoid: extra fingers, deformed hands, face change, text, subtitles, watermark, garbled text, unreadable signs, anime, 3D cartoon, labels, captions."
+  },
+  {
+    "id": "khoi_expressions",
+    "kind": "expression_sheet",
+    "aspect": "16:9",
+    "output": "characters/khoi_expressions.png",
+    "input": "characters/khoi_three_view.png",
+    "prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. Expression sheet of the same person as the reference image: five close-up head-and-shoulders portraits in a row, expressions: neutral, happy, angry, sad, surprised. Same face, same hair, same clothes in every portrait, plain light gray background. Khôi: 26-year-old Vietnamese man, square jaw face, medium light skin, short neat black hair parted to the right, thin straight eyebrows, narrow dark eyes, clean-shaven, wearing black wedding suit, white shirt, black bow tie, small red flower pin on the left lapel. Avoid: extra fingers, deformed hands, face change, text, subtitles, watermark, garbled text, unreadable signs, anime, 3D cartoon, labels, captions."
+  },
+  {
+    "id": "vy_three_view",
+    "kind": "three_view",
+    "aspect": "16:9",
+    "output": "characters/vy_three_view.png",
+    "prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. Character design reference sheet, three-view turnaround: front view, side view in profile, back view, full body, standing in a neutral pose, plain light gray studio background, even soft light, the same person in all three views. Vy: 23-year-old Vietnamese woman, heart-shaped face, fair skin, long wavy dark brown hair to the chest, full lips, sharp eyes with winged eyeliner, wearing pale pink bridesmaid áo dài with silver thread, white pants, thin pearl necklace. Avoid: extra fingers, deformed hands, face change, text, subtitles, watermark, garbled text, unreadable signs, anime, 3D cartoon, labels, captions."
+  },
+  {
+    "id": "vy_expressions",
+    "kind": "expression_sheet",
+    "aspect": "16:9",
+    "output": "characters/vy_expressions.png",
+    "input": "characters/vy_three_view.png",
+    "prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. Expression sheet of the same person as the reference image: five close-up head-and-shoulders portraits in a row, expressions: neutral, happy, angry, sad, surprised. Same face, same hair, same clothes in every portrait, plain light gray background. Vy: 23-year-old Vietnamese woman, heart-shaped face, fair skin, long wavy dark brown hair to the chest, full lips, sharp eyes with winged eyeliner, wearing pale pink bridesmaid áo dài with silver thread, white pants, thin pearl necklace. Avoid: extra fingers, deformed hands, face change, text, subtitles, watermark, garbled text, unreadable signs, anime, 3D cartoon, labels, captions."
+  },
+  {
+    "id": "loc_01_nha_ong",
+    "kind": "location",
+    "aspect": "9:16",
+    "output": "locations/loc_01_nha_ong.png",
+    "prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. Wide establishing shot of an empty location, no people. old Vietnamese tube house ground-floor hall in Ho Chi Minh City, dark wooden family altar with incense and fruit plate against the back wall, carved wooden tea table with a ceramic tea set, red wedding decorations and double-happiness paper cut-outs, warm morning light through a front door, tiled floor. Avoid: people, extra fingers, deformed hands, face change, text, subtitles, watermark, garbled text, unreadable signs, anime, 3D cartoon."
+  },
+  {
+    "id": "loc_02_phong_cuoi",
+    "kind": "location",
+    "aspect": "9:16",
+    "output": "locations/loc_02_phong_cuoi.png",
+    "prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. Wide establishing shot of an empty location, no people. bridal room on the second floor of a Vietnamese tube house, large wooden-framed mirror, dressing table with white and red flowers, wedding veil on a chair, tall window with white curtain, soft warm morning light, red and white wedding decorations. Avoid: people, extra fingers, deformed hands, face change, text, subtitles, watermark, garbled text, unreadable signs, anime, 3D cartoon."
+  },
+  {
+    "id": "loc_03_phong_an_2031",
+    "kind": "location",
+    "aspect": "9:16",
+    "output": "locations/loc_03_phong_an_2031.png",
+    "prompt": "photorealistic, cinematic live-action, Vietnamese setting, 35mm lens, shallow depth of field, natural light, warm color temperature. Wide establishing shot of an empty location, no people. modern city apartment dining room at night, long dark wooden table with two place settings and two wine glasses, candles, cold blue night light from a big window, minimal gray furniture, quiet and cold mood. Avoid: people, extra fingers, deformed hands, face change, text, subtitles, watermark, garbled text, unreadable signs, anime, 3D cartoon."
+  }
+]

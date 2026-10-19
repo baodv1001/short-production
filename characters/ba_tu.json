@@ -1,0 +1,20 @@
+{
+  "name": "Bà Tư",
+  "role": "Khôi's mother, mastermind",
+  "age": "55-year-old Vietnamese woman",
+  "face_shape": "long narrow",
+  "skin_tone": "pale",
+  "hair": "black hair with gray streaks tied in a low bun, thin lips, deep lines beside the mouth",
+  "clothes": "dark maroon silk áo dài, black pants",
+  "accessories": "green jade bracelet on the right wrist",
+  "voice": {
+    "provider": "topview",
+    "voice_id": "3hX3qAk6pUplBjo9EOjvOGlcuu0Oaiia",
+    "note": "Hue, ElevenLabs v3, older female"
+  },
+  "description_fixed": "",
+  "reference_images": {
+    "three_view": "characters/ba_tu_three_view.png",
+    "expression_sheet": "characters/ba_tu_expressions.png"
+  }
+}
