@@ -6,6 +6,17 @@
     "khoi": "3806b183-7ed4-4e1c-acfe-62382df02656",
     "vy": "db3f4604-c26f-4f9e-b3e6-de25daa4741f",
     "ba_tu": "90d61808-45e8-4f3c-a0a2-4d0848d87237",
-    "ba_son": "6205fba8-16a4-4c8a-8ee6-580dc93219de"
-  }
+    "ba_son": "6205fba8-16a4-4c8a-8ee6-580dc93219de",
+    "note": "ha/khoi used old white/black costumes (replaced by v2); ba_tu failed with error 5105 (active task limit, not charged)",
+    "approved_candidates": {
+      "vy": "db3f4604-c26f-4f9e-b3e6-de25daa4741f",
+      "ba_son": "6205fba8-16a4-4c8a-8ee6-580dc93219de"
+    }
+  },
+  "three_view_v2": {
+    "ha": "528d3df7-e43d-480d-92c0-2072857eeca2",
+    "khoi": "1ea5f590-4b1a-4532-97f9-ba1e2cf9a062",
+    "ba_tu": "8ba00033-30f4-4cfd-bdf9-87eb86b0e3fa"
+  },
+  "limits": "TopView allows about 3-4 active image tasks at once. Submit at most 3 together."
 }

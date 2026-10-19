@@ -28,3 +28,10 @@ If a face changes between shots, the viewer stops believing the story. Do this s
 - The human approved the faces.
 
 Next: `drama-3-storyboard`.
+
+## Tool notes (learned from TopView tests)
+- Submit at most 3 image tasks at once. A 5th task fails with error 5105 (not charged).
+- A full-body three-view makes small faces. Always make the expression sheet (close-up faces) from the approved three-view. It is the real face reference.
+- Do not rely on small accessories (watch, mole). The model does not keep the wrist side. Use big, clear costume features (colors, headband, embroidery).
+- Signs and text in generated images are often garbled. Say "no readable text" in the location text.
+- Build the prompts with `python3 tools/build_asset_prompts.py`. Output: `prompts/assets.json`.
